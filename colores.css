@@ -1,0 +1,75 @@
+h1 {
+    text-align: center;
+    max-width: 600px;
+    margin: auto;
+    }
+    .colores {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    margin-top: 0px;
+    padding: 50px;
+    padding-left: 200px;
+    font-size: 25px;
+    font-weight: 900;
+    font-family: serif;
+    }
+    .cg {
+    color: gray;
+    }
+    .cyan {
+    color: cyan;
+    }
+    .sky {
+    color: skyblue;
+    }
+    .fucshia {
+    color: fuchsia;
+    }
+    .purple {
+    color: purple;
+    }
+    .wg {
+    color: wheat;
+    }
+    .red {
+    color: red;
+    }
+    .orange {
+    color: orange;
+    }
+    .pink {
+    color: pink;
+    }
+    .violet {
+    color: violet;
+    }
+    .amber {
+    color: aquamarine;
+    }
+    .lime {
+    color: lime;
+    }
+    .yellow {
+    color: yellow;
+    }
+    .rose {
+    color: rosybrown
+    }
+    .indigo {
+    color: indigo
+    }
+    .green {
+    color: green;
+    }
+    .emerald {
+    color: mediumorchid
+    }
+    .teal {
+    color: teal
+    }
+    .navy {
+    color: navy
+    }
+    .black {
+    color: black;
+    }

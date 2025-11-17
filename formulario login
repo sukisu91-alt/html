@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>login</title>
+</head>
+<fieldset style="width:300px">
+    <h1>Log in</h1>
+
+    <body>
+        <h2>Dont have an acount?<span>Sing up</span></h2>
+        <container>
+            <fieldset style="width: 300px">
+                <img src="/home/factoriaf5/Descargas/5a951939c4ffc33e8c148af2.png" alt="imagen" width="20"><span>sing in
+                    with Google</span>
+                <img src="/home/factoriaf5/Descargas/pngegg.png" alt="imagen" width="20">
+            </fieldset>
+            <h3>or</h3>
+        </container>
+        <p>Email</p>
+        <input type="text" placeholder="Enter Email"><br>
+        <p>Password</p>
+        <input type="text" placeholder="Enter Password"><br>
+        <input type="text" placeholder="Log in">
+        <h4>Forget Password</h4><br>
+</fieldset>
+
+
+
+
+</body>
+
+</html>

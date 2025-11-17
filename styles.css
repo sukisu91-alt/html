@@ -1,0 +1,79 @@
+h1{
+    text-align: center;
+    }
+    .coloresdefondo {
+    background-color: aqua;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    border: 1px solid black;
+    border-radius: 0px;
+    margin-left: 260px;
+    margin-right: 260px;
+    }
+    .caja1 {
+    background-color: orangered;
+    padding: 0;
+    border: 1px solid black;
+    height: 29px;
+    display: flex;
+    }
+    .caja1:nth-child(1) {
+    background-color: rgb(81, 81, 164);
+    }
+    .caja1:nth-child(2) {
+    background-color: grey;
+    }
+    .caja1:nth-child(3) {
+    background-color: darkgray;
+    }
+    .caja1:nth-child(4) {
+    background-color: chocolate;
+    }
+    .caja1:nth-child(5) {
+    background-color: green;
+    }
+    .caja1:nth-child(6) {
+    background-color: darkslategray;
+    }
+    .caja1:nth-child(7) {
+    background-color: red;
+    }
+    .caja1:nth-child(8) {
+    background-color: yellow;
+    }
+    .caja1:nth-child(9) {
+    background-color: darkslategrey;
+    }
+    .caja1:nth-child(10) {
+    background-color: lime;
+    }
+    .caja1:nth-child(11) {
+    background-color: fuchsia;
+    }
+    .caja1:nth-child(12) {
+    background-color: pink;
+    }
+    .caja1:nth-child(13) {
+    background-color: rosybrown;
+    }
+    .caja1:nth-child(14) {
+    background-color: purple;
+    }
+    .caja1:nth-child(15) {
+    background-color: green;
+    }
+    .caja1:nth-child(16) {
+    background-color: indigo;
+    }
+    .caja1:nth-child(17) {
+    background-color: aqua;
+    }
+    .caja1:nth-child(18) {
+    background-color: skyblue;
+    }
+    .caja1:nth-child(19) {
+    background-color: cyan;
+    }
+    .caja1:nth-child(20) {
+    background-color: aquamarine;
+    }
